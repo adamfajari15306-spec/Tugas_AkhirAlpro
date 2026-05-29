@@ -1,0 +1,30 @@
+1;Algoritma Dasar;Andi;Ilmiah;10
+2;Struktur Data;Budi;Ilmiah;8
+3;Pemrograman Java;Citra;Ilmiah;12
+4;Fisika Modern;Dewi;Pelajaran;7
+5;Kimia Dasar;Eko;Pelajaran;9
+6;Matematika Diskrit;Fajar;Pelajaran;11
+7;Laskar Pelangi;Andrea Hirata;Fiksi;5
+8;Bumi;Tere Liye;Fiksi;6
+9;Negeri 5 Menara;Ahmad Fuadi;Fiksi;4
+10;Dilan 1990;Pidi Baiq;Fiksi;3
+11;Atomic Habits;James Clear;Motivasi;7
+12;Rich Dad Poor Dad;Robert Kiyosaki;Motivasi;6
+13;Think and Grow Rich;Napoleon Hill;Motivasi;5
+14;The Power of Habit;Charles Duhigg;Motivasi;8
+15;Mindset;Carol Dweck;Motivasi;9
+16;Biologi SMA;Rina;Pelajaran;10
+17;Sejarah Indonesia;Tono;Pelajaran;6
+18;Geografi Dunia;Sari;Pelajaran;7
+19;Ekonomi Dasar;Wawan;Pelajaran;8
+20;Bahasa Inggris;Yuni;Pelajaran;12
+21;Machine Learning;Zaki;Ilmiah;6
+22;Artificial Intelligence;Rudi;Ilmiah;5
+23;Database System;Sinta;Ilmiah;9
+24;Operating System;Bayu;Ilmiah;7
+25;Computer Network;Dani;Ilmiah;8
+26;Ayat-Ayat Cinta;Habiburrahman;Fiksi;4
+27;Perahu Kertas;Dee Lestari;Fiksi;5
+28;5 CM;Donny Dhirgantoro;Fiksi;6
+29;Rantau 1 Muara;Ahmad Fuadi;Fiksi;3
+30;Sang Pemimpi;Andrea Hirata;Fiksi;7
